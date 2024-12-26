@@ -13,6 +13,7 @@ endif
 libstrongswan_ml_la_SOURCES = \
 	ml_bitpacker.c ml_bitpacker.h \
 	ml_kem.c ml_kem.h \
+	ml_dsa_private_key.c ml_dsa_private_key.h \
 	ml_params.c ml_params.h \
 	ml_plugin.h ml_plugin.c \
 	ml_poly.c ml_poly.h \
